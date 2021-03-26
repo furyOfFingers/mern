@@ -1,5 +1,5 @@
 {
-  "name": "takeoffstaff",
+  "name": "MERN",
   "version": "1.0.0",
   "description": "<ul>   <li>npm i</li>   <li>npm run start</li>   <li>open the port on which the project was launched. Default http://localhost:8080/</li> </ul>",
   "main": "index.js",
