@@ -1,0 +1,7 @@
+{
+  "port": 5000,
+  "jwtSecret": "MaratNeVsegda vsem rad",
+  "mongoUri": "mongodb+srv://marat:12345678Start@cluster0.owhib.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000",
+  "api": "/api/auth/"
+}
